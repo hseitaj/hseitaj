@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hansi Seitaj
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in Software Engineering.
 - 📫 How to reach me? Linkedin.
 - https://www.linkedin.com/in/hansiseitaj/
 
