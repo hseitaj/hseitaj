@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansi</h1>
-<h3 align="center"> 👀 A passionate software engineer!</h3>
+<h3 align="left"> 👀 A passionate Software Engineer!</h3>
 
 - 🌱 I’m currently learning **PLAIT and Computer Networks**
 
