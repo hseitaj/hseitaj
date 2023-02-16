@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hansi</h1>
 <h3 align="left"> 👀 A passionate Software Engineer!</h3>
 
-- 🌱 I’m currently learning **PLAIT/Racket -- Computer Networks and Web Development Skillset**
+- 🌱 I’m currently learning **PLAIT/Racket, Computer Networks and Web Development Skillset**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
