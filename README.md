@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hansi</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=hseitaj&label=Profile%20views&color=0e75b6&style=flat" alt="hseitaj" /> </p>
 <h3 align="left"> 👀 A passionate Software Engineer!</h3>
 
-- 🌱 I’m currently learning **PLAIT/Racket, Computer Networks and Web Development Skillset**
+- 🌱 I’m currently learning **Web Development Skillset**
 - 📄 Know about my experiences [https://hseitaj.github.io/](https://hseitaj.github.io/)
 
 <h3 align="left">Connect with me:</h3>
