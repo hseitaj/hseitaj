@@ -2,7 +2,7 @@
 <h3 align="left"> 👀 A passionate Software Engineer!</h3>
 
 - 🌱 I’m currently learning **Web Development Skillset**
-- 📄 Know about my experiences [https://hseitaj.github.io/](https://hseitaj.github.io/)
+- 📄 Know about my experiences [Personal Website/Portofolio](https://hansiseitaj.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
